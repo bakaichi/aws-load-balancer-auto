@@ -10,6 +10,7 @@ This script automates the deployment of a highly available and scalable web appl
 - **Auto Scaling**: Implements an Auto Scaling Group to handle changes in load.
 - **Monitoring**: Uses CloudWatch for monitoring and alarming based on specific metrics like CPU utilization.
 - **Security**: Configures security groups to allow HTTP and SSH traffic.
+- **Git Clone**: Clones a git repository into the load balancer.
 
 ## Prerequisites
 
